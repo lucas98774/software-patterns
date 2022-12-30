@@ -25,5 +25,8 @@ Facade | ? | ?
 
 To start learning about software design patterns, I started with youtube series and the author did a very good job. I would recommend these videos to anyone interesting in learning about software design. You can find the link to the series [here](https://www.youtube.com/watch?v=qR4-PBLUZNw&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N).
 
+## Additional Note
+
+This repo will also link code via submodules in git. If you are not familiar with those read [this](https://git-scm.com/book/en/v2/Git-Tools-Submodules). Submodules essentially allow repos inside of other repos which allow natural partitioning of projects into smaller projects which increases maintainability and organization. This does come with a few more git commands to learn and keeping the submodules straight but I hope is greatly worth it in terms of organization and code separation.
 
 
