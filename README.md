@@ -10,7 +10,7 @@ I will try to organize these patterns in order of usefulness but this is subject
 
 
 Pattern | Type | Usefulness Rating
---- | ---
+--- | --- | ---
 Dependency Inversion | ? | 1
 Strategy | Behavioral | 2
 Plugin | Behavioral | 2
