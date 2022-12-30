@@ -1,0 +1,3 @@
+[submodule "simple-plugin"]
+	path = simple-plugin
+	url = https://github.com/lucas98774/simple-plugin.git
