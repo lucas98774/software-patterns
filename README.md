@@ -16,6 +16,7 @@ Strategy | Behavioral | 2
 Plugin | Behavioral | 2
 Factory | Creation | 2
 Builder | Creation | 2
+Bridge | Behavioral | 3
 Adapter | Behavioral | 4
 Command | ? | ?
 Facade | ? | ?
