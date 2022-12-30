@@ -29,4 +29,13 @@ To start learning about software design patterns, I started with youtube series 
 
 This repo will also link code via submodules in git. If you are not familiar with those read [this](https://git-scm.com/book/en/v2/Git-Tools-Submodules). Submodules essentially allow repos inside of other repos which allow natural partitioning of projects into smaller projects which increases maintainability and organization. This does come with a few more git commands to learn and keeping the submodules straight but I hope is greatly worth it in terms of organization and code separation.
 
+## Getting Started
+
+The steps I am detailing here are laid out in the link on submodules in the previous section but I am detailing this in case anyone wants to get started without reading that yet. __To execute__ any code contained in a submodule, 2 commands must be run (both from that subdirectory) __after__ initially cloning this project:
+
+1. git submodule init: this registers the directory as a submodule on your local config
+2. git submodule update: this will actually grab the code
+
+
+
 
