@@ -7,6 +7,7 @@ The strategy pattern is similar to the principle of Dependency Inversion but is 
 
 ## Links
 [Here](https://medium.com/nerd-for-tech/strategy-design-pattern-python-896f2d38012d) if a good example of the strategy pattern.
+There is another one [here](https://auth0.com/blog/strategy-design-pattern-in-python/) which gives a nice background on the different types of patterns as well. 
 
 ## Takeaways
 
