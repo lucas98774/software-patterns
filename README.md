@@ -19,7 +19,9 @@ Builder | Creation | 2
 Bridge | Behavioral | 3
 Adapter | Behavioral | 4
 Command | ? | ?
-Facade | ? | ?
+Facade | Structural | 2
+Composite | Structural | ?
+Prototype | Creation | ?
 
 ### Helpful Videos
 
